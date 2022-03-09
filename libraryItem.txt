@@ -1,0 +1,4 @@
+b,1,A book,Bill Bob,01/12/2004,10
+v,2,How to spoon,Jimmy Jones,03/25/1986,5
+m,3,Noir book,John Jones,12/22/2021,2
+b,4,Inferno,Dante,03/25/1320,1
